@@ -1,4 +1,4 @@
-# [RandomQuotes](https://pathanin-kht.github.io/RandomQuotes/)
+# [RandomQuotes v2.0.0](https://pathanin-kht.github.io/RandomQuotes/)
 ## Overviews
 RandomQuotes is a web app that provides a random daily quote. Users can get inspired and easily copy the quote.
 
